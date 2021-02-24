@@ -5,3 +5,5 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   This is my github page
   where I try stuff.
+plugins:
+  - jekyll-feed
