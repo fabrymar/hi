@@ -1,1 +1,1 @@
-Too late on a Wednesday evening my first blog post was created.
+Late on a Wednesday evening my first blog post was created.
